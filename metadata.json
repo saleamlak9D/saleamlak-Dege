@@ -1,0 +1,6 @@
+{
+  "name": "Salish eLearning",
+  "description": "An interactive e-learning platform featuring dynamic exams, results dashboards, live interactive classes, offline access, real-time push notifications, a dedicated Manager interface for uploading content, and an intelligent Gemini-powered Chatbot helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
